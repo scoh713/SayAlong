@@ -10,6 +10,7 @@ SayAlong is a web document that include codes written in JavaScript. It loads on
 You can click on the 'Select File' button next to 'Video' to load a video file. Also you can click on the 'Select File' button next to 'Subtitle' to load the subtitle file for the video.
 After loading a video and the subtitle for that, you can click on each subtitle line to play that part of the video. And you can change the playback speed by manipulating the 'Speed' slide bar from 0.5 to 1. 
 
+![Cap 2021-05-10 16-27-47-914](https://user-images.githubusercontent.com/17871491/118210183-10d61080-b4a5-11eb-9192-427987508d95.jpg)
 
 Alternatively, you can use the hot keys below:
 
