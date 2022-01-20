@@ -17,8 +17,8 @@ Alternatively, you can use the hot keys below:
 - 'z': play previous subtitle line
 - 'x': play current subtitle line
 - 'c': play next subtitle line
-- 's': one level lower the playback speed
-- 'f': one level up the playback speed
+- '-': one level lower the playback speed
+- '=': one level up the playback speed
 
 **3. Running environment**
 
